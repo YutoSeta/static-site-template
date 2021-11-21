@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="{{ $page->getUrl() }}">
     <meta name="description" content="{{ $page->description }}">
-    <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
-    <script defer src="{{ mix('js/main.js', 'assets/build') }}"></script>
+    <script src="https://cdn-tailwindcss.vercel.app/?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+    <script src="https://unpkg.com/alpinejs" defer></script>
 </head>
 <body>
     @yield('body')

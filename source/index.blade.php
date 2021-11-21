@@ -41,7 +41,4 @@
             </div>
         </section>
     </section>
-
-    {{--<script src="https://cdn-tailwindcss.vercel.app/?plugins=forms,typography,aspect-ratio,line-clamp"></script>--}}
-    {{--<script src="https://unpkg.com/alpinejs" defer></script>--}}
 @endsection
