@@ -1,9 +1,9 @@
 # laravel-mixで静的サイトをつくるためのテンプレート
 
 ## 使い方
-1. 'npm install'
+1. `npm install`
 2. webpack.mix.jsを編集
-3. 'npx mix watch'
+3. `npx mix watch`
 
 ## ディレクトリ構成
 - index.html（app.cssとapp.jsをデフォルトで読み込む）
